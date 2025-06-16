@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9F&center=true&vCenter=true&width=500&lines=Hi+I'm+Dheeraj+Anagandula;AI+%26+Full+Stack+Developer;Tech+Explorer+%7C+Builder+%7C+Innovator" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coder GIF"/>
