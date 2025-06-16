@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=F7971E&center=true&vCenter=true&width=650&lines= Hi I'am+Dheeraj+Anagandula+%F0%9F%91%8B;AI+%26+Full-Stack+Developer;" alt="Typing SVG" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7B6&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Dheeraj+Anagandula!+👋;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Web+Developer;Tech+Explorer+%7C+%7C+Innovator)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coder GIF"/>
