@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dheeraj+Anagandula+%F0%9F%91%8B;AI+%26+Full-Stack+Developer;%7C+Hackathon+Winner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines= Hi I'am+Dheeraj+Anagandula+%F0%9F%91%8B;AI+%26+Full-Stack+Developer;" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -106,11 +106,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dheeraxspidey&show_icons=true&theme=radical" alt="dheeraxspidey's GitHub stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraxspidey&theme=radical" width="400"/>
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dheeraxspidey&theme=radical&margin-w=10&no-frame=true" alt="GitHub Profile Trophy" width="90%"/>
-</p>
+
+
